@@ -1,4 +1,4 @@
-![alt text](https://github.com/wehttqm/Sokoban.s/blob/master/title.png?raw=true)
+![alt text](https://github.com/wehttqm/Sokoban.s/blob/main/title.png?raw=true)
 
 # Sokoban.s
 A RISC-V Implementation of the classic box-shoving game, Sokoban, I made while taking CSC258 at U of T!
