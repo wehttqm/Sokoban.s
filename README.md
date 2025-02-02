@@ -8,5 +8,6 @@ I found the experience helped to further my understanding of how computers work 
 before this was largely in interpreted languages such as Python and Java, which enfore memory safety. Working in assembly was the complete opposite - I had to manage
 my own memory, and there was a lot to manage. 
 
-The user guide should contain all the information you need to run the game in CPULator. If I'm bored one day, I'll come back here and write a guide on running it on native
-hardware.
+## Get Started
+
+The user guide should contain all the information you need to run the game in [CPULator](https://cpulator.01xz.net/?sys=rv32-spim). 
