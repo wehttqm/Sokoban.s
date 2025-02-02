@@ -1,7 +1,7 @@
 ![alt text](https://github.com/wehttqm/Sokoban.s/blob/main/title.png?raw=true)
 
 # Sokoban.s
-A RISC-V Implementation of the classic box-shoving game, Sokoban, I made while taking CSC258 at U of T!
+A RISC-V Assembly implementation of the classic box-shoving game, Sokoban, I made while taking CSC258 at U of T!
 
 This was my first time writing a game in assembly, and it was quite the exprience. Lots of sleepless nights brought forth the program you see here. 
 Would I code a game in RISC-V again? Probably not, however... 
